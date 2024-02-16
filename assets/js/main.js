@@ -98,4 +98,21 @@ Per scrivere dentro la nostra console utilizziamo la sua
  funzione .log() ma se scrivessimo
   console.info('Il mio messaggio') che differenza c'è?
    Perche? Esistono altri metodi da usare con console. ?
-(aiutatevi con una ricerca su internet per tennere allenate il vostro brain)*/
+(aiutatevi con una ricerca su internet per tennere allenate
+     il vostro brain)*/
+
+     console.info('Il mio messaggio')
+
+     console.info(temperature)
+
+     /*Dalla mia console di Chrome visivamente non cambia
+     nulla.. Leggendo online mi sembra di capire ci siano
+     convenzioni che portano log() a essere utilizzata per visualizzare
+     variabili e oggetti mentre console.info solo per messaggi permanenti
+
+     Ci sono diverse altre funzioni (console.warn, console.error, console.assert)
+     utilizzate a seconda delle nostre neccessità.
+     */
+
+     //Assertion
+     console.assert(document.getElementById("id"), "No element found with ID 'id'");
