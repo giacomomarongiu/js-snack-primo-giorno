@@ -77,3 +77,25 @@ let temperature = 22.5;
 temperature = temperature + 5
 
 console.log(temperature);
+
+
+
+/*Esercizio 5: Numeri
+Rispondete in un commento a più righe: Che differenza c'è tra 
+il numero 3.14 e 100 sono diversi? Perchè? Che tipo di dato è 
+uno e che tipo di dato è l'altro?*/
+
+/* 3.14 è un numero decimale in quanto presenta valori aggiuntivi
+ a 0 e 1. In questo sisitema possiamo utilizzare numeri da 0 a 9
+
+100 è un numero binario, potrebbe trarci in inganno perché è (anche)
+un numero decimale, in informatica questo 100 potrebbe essere parte di
+una sequenza di bit*/
+
+
+/*Esercizio 6: console
+Per scrivere dentro la nostra console utilizziamo la sua
+ funzione .log() ma se scrivessimo
+  console.info('Il mio messaggio') che differenza c'è?
+   Perche? Esistono altri metodi da usare con console. ?
+(aiutatevi con una ricerca su internet per tennere allenate il vostro brain)*/
