@@ -45,3 +45,13 @@ Stampa il nuovo valore in console.
 - Chiamo la variabile name con la funzione log
 - Cambio il valore della variabile name il valore Carlo (non c'è bisogno di dichiararla nuovamente) con l' = e gli apici "" perché è una stringa
 - Chiamo la variabile name con la funzione log
+
+
+
+Esercizio 4
+Dichiara una variabile chiamata temperature e assegnale il valore 22.5. Successivamente, aumenta il suo valore di 5 e stampa il nuovo valore in console.
+
+- Dichiaro la variabile temperature
+- Assegno alla variabile il valore 22.5 con l' =
+- Cambio il valore della variabile temperature incrementandolo
+- Chiamo la variabile temperature con la funzione log
