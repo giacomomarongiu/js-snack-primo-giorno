@@ -32,3 +32,16 @@ Stampa il valore della variabile circle in console.
 - Dichiaro la variabile circle 
 - Assegno alla variabile il valore con l'= utilizzando + com e * come operatori aritmentici
 - Chiamo la variabile circle con la funzione log
+
+
+Esercizio 3
+Dichiara una variabile chiamata name e
+assegnale il valore "Carlo".
+Successivamente, modifica il valore della variabile in "Marco".
+Stampa il nuovo valore in console.
+
+- Dichiaro la variabile name (con let visto che devo modificarla)
+- Assegno alla variabile il valore Marco con l' = e gli apici "" perché è una stringa
+- Chiamo la variabile name con la funzione log
+- Cambio il valore della variabile name il valore Carlo (non c'è bisogno di dichiararla nuovamente) con l' = e gli apici "" perché è una stringa
+- Chiamo la variabile name con la funzione log
